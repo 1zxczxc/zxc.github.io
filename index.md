@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/1zxczxc/zxc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1zxczxc/zxc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<title>zxc1
+</title>
+<head>
+<style>
+	
+</style>
+<script>
+</script>
+</head>
+<body>
+<table border="0px" cellspacing="1px" width="200px" cellpadding="0px" align="center" bgcolor="red">
+    <caption align="top">管理中心</caption>
+       <tr  bgcolor="white">
+        <th>序号</th>
+        <th>在线时间</th>
+        <th>收益</th>
+        <th>收益统计时间</th>
+      </tr>
+      <tr  align="center" bgcolor="white">
+        <td>1</td>
+        <td align="left" >time1</td>
+        <td>money1</td>
+        <td>statistics1</td>
+      </tr>
+      <tr  align="center"  bgcolor="white">
+        <td>2</td>
+        <td>time2</td>
+        <td>money2</td>
+        <td>statistics2</td>  
+      </tr>
+    </table>
+</body>
+</html>
